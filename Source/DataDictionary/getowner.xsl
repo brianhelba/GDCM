@@ -4,7 +4,7 @@
 <!-- XSL to extract XML GDCM2 data owner -->
 <!--
   Program: GDCM (Grassroots DICOM). A DICOM library
-  Module:  $URL$
+  Module:  $URL: https://gdcm.svn.sourceforge.net/svnroot/gdcm/trunk/Source/DataDictionary/getowner.xsl $
 
   Copyright (c) 2006-2010 Mathieu Malaterre
   All rights reserved.

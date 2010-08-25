@@ -4,7 +4,7 @@
 <!-- fop -xml GDCM2.xml -xsl gdcm2pdf.xsl GDCM2.pdf -->
 <!--
   Program: GDCM (Grassroots DICOM). A DICOM library
-  Module:  $URL$
+  Module:  $URL: https://gdcm.svn.sourceforge.net/svnroot/gdcm/trunk/Source/DataDictionary/gdcm2pdf.xsl $
 
   Copyright (c) 2006-2010 Mathieu Malaterre
   All rights reserved.

@@ -4,7 +4,7 @@
 <!-- XSL to convert Part7 into GDCM2 xml dict -->
 <!--
   Program: GDCM (Grassroots DICOM). A DICOM library
-  Module:  $URL$
+  Module:  $URL: https://gdcm.svn.sourceforge.net/svnroot/gdcm/trunk/Source/DataDictionary/redo2.xsl $
 
   Copyright (c) 2006-2010 Mathieu Malaterre
   All rights reserved.
@@ -36,7 +36,7 @@ $ xsltproc gdcm2html.xsl GDCM2.xml
     </xsl:comment>
     <xsl:comment>
   Program: GDCM (Grassroots DICOM). A DICOM library
-  Module:  $URL$
+  Module:  $URL: https://gdcm.svn.sourceforge.net/svnroot/gdcm/trunk/Source/DataDictionary/redo2.xsl $
 
   Copyright (c) 2006-2010 Mathieu Malaterre
   All rights reserved.

@@ -14,7 +14,7 @@ TODO:
 -->
 <!--
   Program: GDCM (Grassroots DICOM). A DICOM library
-  Module:  $URL$
+  Module:  $URL: https://gdcm.svn.sourceforge.net/svnroot/gdcm/trunk/Source/DataDictionary/dicom3tools.xsl $
 
   Copyright (c) 2006-2010 Mathieu Malaterre
   All rights reserved.

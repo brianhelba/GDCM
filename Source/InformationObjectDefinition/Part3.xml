@@ -6,7 +6,7 @@ $ xsltproc ma2html.xsl ModuleAttributes.xml
     -->
 <!--
   Program: GDCM (Grassroots DICOM). A DICOM library
-  Module:  $URL$
+  Module:  $URL: https://gdcm.svn.sourceforge.net/svnroot/gdcm/trunk/Source/InformationObjectDefinition/Part3.xml $
 
   Copyright (c) 2006-2010 Mathieu Malaterre
   All rights reserved.

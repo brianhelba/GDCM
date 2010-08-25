@@ -4,7 +4,7 @@
 <!-- fop -xml Part6.xml -xsl Part6PDF.xsl Part6.pdf -->
 <!--
   Program: GDCM (Grassroots DICOM). A DICOM library
-  Module:  $URL$
+  Module:  $URL: https://gdcm.svn.sourceforge.net/svnroot/gdcm/trunk/Source/DataDictionary/Part6PDF.xsl $
 
   Copyright (c) 2006-2010 Mathieu Malaterre
   All rights reserved.

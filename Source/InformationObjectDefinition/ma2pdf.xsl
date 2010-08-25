@@ -4,7 +4,7 @@
 <!-- XSL to convert XML GDCM2 data dictionay into HTML form -->
 <!--
   Program: GDCM (Grassroots DICOM). A DICOM library
-  Module:  $URL$
+  Module:  $URL: https://gdcm.svn.sourceforge.net/svnroot/gdcm/trunk/Source/InformationObjectDefinition/ma2pdf.xsl $
 
   Copyright (c) 2006-2010 Mathieu Malaterre
   All rights reserved.

@@ -8,7 +8,7 @@ Checked against:
 -->
 <!--
   Program: GDCM (Grassroots DICOM). A DICOM library
-  Module:  $URL$
+  Module:  $URL: https://gdcm.svn.sourceforge.net/svnroot/gdcm/trunk/Source/DataDictionary/Part6tod3t.xsl $
 
   Copyright (c) 2006-2010 Mathieu Malaterre
   All rights reserved.

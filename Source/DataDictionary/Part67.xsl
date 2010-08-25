@@ -2,7 +2,7 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
 <!--
   Program: GDCM (Grassroots DICOM). A DICOM library
-  Module:  $URL$
+  Module:  $URL: https://gdcm.svn.sourceforge.net/svnroot/gdcm/trunk/Source/DataDictionary/Part67.xsl $
 
   Copyright (c) 2006-2010 Mathieu Malaterre
   All rights reserved.
@@ -19,7 +19,7 @@
   <xsl:template match="/">
     <xsl:comment>
   Program: GDCM (Grassroots DICOM). A DICOM library
-  Module:  $URL$
+  Module:  $URL: https://gdcm.svn.sourceforge.net/svnroot/gdcm/trunk/Source/DataDictionary/Part67.xsl $
 
   Copyright (c) 2006-2010 Mathieu Malaterre
   All rights reserved.
