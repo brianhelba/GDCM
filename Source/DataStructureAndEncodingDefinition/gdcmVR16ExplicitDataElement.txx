@@ -86,7 +86,6 @@ std::istream &VR16ExplicitDataElement::Read(std::istream &is)
     }
   catch( Exception &ex )
     {
-    (void)ex;
     VRField = VR::INVALID;
     // gdcm-MR-PHILIPS-16-Multi-Seq.dcm
     if( TagField == Tag(0xfffe, 0xe000) )
@@ -199,7 +198,6 @@ std::istream &VR16ExplicitDataElement::Read(std::istream &is)
         }
       catch( std::exception &ex)
         {
-        (void)ex;
         // Must be one of those non-cp246 file...
         // but for some reason seekg back to previous offset + Read
         // as Explicit does not work...

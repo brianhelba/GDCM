@@ -74,7 +74,6 @@ if( DS.IsEmpty() )
         }
       catch(gdcm::Exception &ex)
         {
-        (void)ex;
         gdcmErrorMacro( "Could not recreate the File Meta Header, please report:" << ex.what() );
         return false;
         }
@@ -87,7 +86,6 @@ if( DS.IsEmpty() )
     }
   catch( std::exception &ex)
     {
-    (void)ex;
     assert(0);
     // File such as PICKER-16-MONO2-No_DicomV3_Preamble.dcm
     // are a pain to rewrite since the metaheader was declared as implicit
@@ -158,7 +156,6 @@ try
 }
 catch(std::exception &ex)
 {
-  (void)ex;
   gdcmErrorMacro( ex.what() );
   return false;
 }

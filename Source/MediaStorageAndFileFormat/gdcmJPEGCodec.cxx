@@ -37,7 +37,7 @@ JPEGCodec::~JPEGCodec()
 
 void JPEGCodec::SetQuality(double q)
 {
-  Quality = static_cast<int>(q);
+  Quality = q;
 }
 
 double JPEGCodec::GetQuality() const
