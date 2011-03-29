@@ -763,7 +763,7 @@ bool RLECodec::Decode(std::istream &is, std::ostream &os)
     assert( numOutBytes == length );
     }
 
-  return ImageCodec::DecodeByStreams(tmpos,os);
+  return ImageCodec::Decode(tmpos,os);
 }
 
 bool RLECodec::GetHeaderInfo(std::istream &is, TransferSyntax &ts)
