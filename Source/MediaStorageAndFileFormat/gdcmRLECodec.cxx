@@ -20,10 +20,9 @@
 #include "gdcmSequenceOfFragments.h"
 #include "gdcmSmartPointer.h"
 #include "gdcmSwapper.h"
-
 #include <limits>
+
 #include <vector>
-#include <stddef.h>
 
 namespace gdcm
 {
